@@ -13,10 +13,10 @@ For this assignment, you will submit a high-level outline of your project. This 
   - User sign-in:
     - Users will be able to create accounts and sign in. Each user will have a user profile, containing general area, preferred climbing       disciplines, and personality information.
   
-  - View climbers by area or discipline
+  - View climbers by area or discipline:
     - Users will be able to look for climbing partners who are nearby, as well filtering by preferred discipline.
     
-  -Create post:
+  - Create post:
     - Users will be able to create blog posts when logged in. These posts will appear in their profile and on the dashboard.
     
   - Create comment:
