@@ -26,13 +26,13 @@ For this assignment, you will submit a high-level outline of your project. This 
     - Users will be able to chat privately with other users.
 
 ### Technologies
--Java
--Flask
--CSS/HTML
--MySQL
--SQLAlchemy
--Twilio
--Spring
+- Java
+- Flask
+- CSS/HTML
+- MySQL
+- SQLAlchemy
+- Twilio
+- Spring
 
 ### What I'll Have to Learn
 - Integrating an API
