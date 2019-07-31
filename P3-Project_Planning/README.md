@@ -7,13 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Landing Page](https://github.com/MiataMyke/climb-with-me/blob/master/Wireframes/Landing%20Page.png)
+* [Partner Ads](https://github.com/MiataMyke/climb-with-me/blob/master/Wireframes/Partner%20Ads%20Page.png)
+* [User Profile](https://github.com/MiataMyke/climb-with-me/blob/master/Wireframes/User%20Profile%20Page.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+* [Project Tracker](https://trello.com/b/TRZpPq07/climbwithme)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+* [Project Repo](https://github.com/MiataMyke/climb-with-me)
